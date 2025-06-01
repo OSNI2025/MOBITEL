@@ -8,5 +8,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'Software-MOBITEL';
+  protected title = 'Software-MOBITEL 1.0.0';
+  protected subtitle = 'Angular 17 + Ionic 7 + Capacitor 5 + Tailwind CSS 3';
 }
